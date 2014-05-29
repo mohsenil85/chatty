@@ -23,6 +23,15 @@
     "backbone-amd-lodash": "~0.9.3",
     "requirejs": "~2.1.13",
     "bootstrap-css": "~3.1.1",
-    "modernizr": "~2.8.2"
+    "modernizr": "~2.8.2",
+    "socket.io-client": "~1.0.2",
+    "requirejs-text": "~2.0.12",
+    "jquery-cookie": "~1.4.1",
+    "jquery-serialize-object": "~2.2.0",
+    "json2": "*",
+    "jquery": "~2.1.1"
+  },
+  "resolutions": {
+    "jquery": ">=1.2"
   }
 }
