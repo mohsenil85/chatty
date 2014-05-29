@@ -20,7 +20,6 @@
     "tests"
   ],
   "dependencies": {
-    "backbone-amd-lodash": "~0.9.3",
     "requirejs": "~2.1.13",
     "bootstrap-css": "~3.1.1",
     "modernizr": "~2.8.2",
@@ -29,7 +28,8 @@
     "jquery-cookie": "~1.4.1",
     "jquery-serialize-object": "~2.2.0",
     "json2": "*",
-    "jquery": "~2.1.1"
+    "jquery": "~2.1.1",
+    "backbone-amd": "~1.1.0"
   },
   "resolutions": {
     "jquery": ">=1.2"
